@@ -1,11 +1,4 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +28,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.profile-img {
+  /* width: 60%; */
+  pointer-events: none;
+}
+.resume_pdf{
+  height:40vw;
 }
